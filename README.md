@@ -9,8 +9,8 @@ execution engine.
 This repo is a reconstructed, cleaned-up version of the core
 architecture. The original team codebase wasn't preserved after the
 project wrapped, but the design and the hardest problem we solved (safe,
-timeout-bounded code execution under concurrent load) are represented
-faithfully here.
+timeout bounded code execution under concurrent load) are represented
+ here.
 
 ## Architecture
 
